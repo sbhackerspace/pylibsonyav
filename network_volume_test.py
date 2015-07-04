@@ -4,7 +4,7 @@ __author__ = 'michaelkapuscik'
 import socket
 import time
 
-TCP_IP = '10.42.0.75'
+TCP_IP = '10.18.14.85'
 TCP_PORT = 33335
 BUFFER_SIZE = 1024
 
